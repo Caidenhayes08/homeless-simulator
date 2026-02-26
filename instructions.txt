@@ -1,0 +1,3 @@
+to run this file make sure that pygame is installed on your device make sure all assets are installed in the folder otherwise the game is not going to run.
+after double checking the files run the game as a normal python file (python3 main.py) in terminal and the game will run.
+have fun playing the game!
